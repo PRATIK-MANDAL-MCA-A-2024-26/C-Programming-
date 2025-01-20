@@ -1,5 +1,5 @@
-1. Write a C program to find sum and average of three numbers.
-Source Code :
+//1. Write a C program to find sum and average of three numbers.
+//Source Code :
 
  #include <stdio.h>
  int main(){
