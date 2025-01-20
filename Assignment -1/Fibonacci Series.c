@@ -1,9 +1,8 @@
-3. Write a C program to generate the first n terms of Fibonacci series.
-Source Code :
+//3. Write a C program to generate the first n terms of Fibonacci series.
+//Source Code :
 
 #include <stdio.h>
 int main() {
- printf("NAME: PRATIK MANDAL , MCA1A, ROLL: 36\n");
  int i, n;
  int t1 = 0, t2 = 1;
  int nextTerm = t1 + t2;
