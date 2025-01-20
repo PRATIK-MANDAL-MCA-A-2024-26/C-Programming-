@@ -1,5 +1,6 @@
-2. Write a C program to find the sum of individual digit of a given positive integer.
-Source Code :
+//2. Write a C program to find the sum of individual digit of a given positive integer.
+//Source Code :
+
 #include<stdio.h>
 int main()
 {
